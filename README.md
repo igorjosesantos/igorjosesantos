@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This account was moved to [@igorjs](https://github.com/igorjs)
+
 <!--
 **igorjosesantos/igorjosesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
